@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons\browsing.svg</file>
+    <file>icons\convert.svg</file>
+    <file>icons\pause.svg</file>
+    <file>icons\download.svg</file>
+	<file>icons\Browse.ico</file>
+</qresource>
+</RCC>
